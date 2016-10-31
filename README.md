@@ -1,2 +1,3 @@
-# TicTacToe
-Gra "Kółko i Krzyżyk" napisana z użyciem Fuchsii w Ruby
+<p align="center">
+  <img src ="https://raw.githubusercontent.com/anatol-karlinski/TicTacToe/master/TicTacToe.png" />
+</p>
